@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhagath-reddy-68328a176/)
 [![](https://img.shields.io/twitter/follow/DikshaVv?color=%231DA1F2&label=&logo=twitter&logoColor=%23ffffff&style=for-the-badge)](https://twitter.com/_imbhagath)
 
-### Hello people 👾👽👾
+### Namaste world 👾👽👾
 
 <!--
 **iambhagath/iambhagath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
